@@ -1,6 +1,7 @@
 ## To-Do List — React App
 A simple and interactive To-Do List built with React.
 This app allows users to add tasks, delete tasks, and reorder tasks using Move Up / Move Down buttons.
+
 <img width="1917" height="866" alt="Screenshot 2025-11-16 224625" src="https://github.com/user-attachments/assets/5b998e44-8416-41db-b227-4a9ba7deb83a" />
 
 
