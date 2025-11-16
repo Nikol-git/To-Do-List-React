@@ -1,16 +1,32 @@
-# React + Vite
+## To-Do List — React App
+A simple and interactive To-Do List built with React.
+This app allows users to add tasks, delete tasks, and reorder tasks using Move Up / Move Down buttons.
+<img width="1917" height="866" alt="Screenshot 2025-11-16 224625" src="https://github.com/user-attachments/assets/5b998e44-8416-41db-b227-4a9ba7deb83a" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Live Demo
+https://nikol-git.github.io/To-Do-List-React/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+-Add new tasks
+-Delete existing tasks
+-Move tasks up and down
+-Prevent adding empty tasks
+-Clean and simple UI
 
-## React Compiler
+## How to Use
+-Type a task into the input box at the top.
+-Click “Add Task” to add it to the list.
+-Each task will appear with three buttons:
+-Delete — removes the task
+-Move Up — moves the task higher in the list
+-Move Down — moves the task lower in the list
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+You can continue adding, reordering, and deleting tasks as needed.
+Your list stays active until you refresh the page.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+React 19
+Vite
+JavaScript (ES6)
+HTML / CSS
