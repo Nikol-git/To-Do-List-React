@@ -9,7 +9,7 @@ This app allows users to add tasks, delete tasks, and reorder tasks using Move U
 https://nikol-git.github.io/To-Do-List-React/
 
 ## Features
--Add new tasks
+-Add new tasks <br>
 -Delete existing tasks
 -Move tasks up and down
 -Prevent adding empty tasks
